@@ -1,4 +1,4 @@
-/These seeds are just for testing purposes. Not actual mothers from Uganda
+//These seeds are just for testing purposes. Not actual mothers from Uganda
 exports.seed = function(knex) {
   return knex("mothers").insert([
     {
