@@ -7,6 +7,8 @@ yarn-debug.log*
 yarn-error.log*
 lerna-debug.log*
 
+package-lock.json
+
 # Dependency directories
 node_modules/
 jspm_packages/
@@ -26,3 +28,5 @@ jspm_packages/
 
 #All sqlite databases
 *.sqlite3
+
+notes.md
