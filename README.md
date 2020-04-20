@@ -2,7 +2,7 @@
 
 # API Documentation
 
-#### Backend delpoyed at [Heroku](https://production-fe-labs17-safe.herokuapp.com/) <br>
+#### Backend delpoyed at [Heroku](https://safemothers-be.herokuapp.com/) <br>
 
 ## Getting started
 
